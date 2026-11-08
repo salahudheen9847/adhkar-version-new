@@ -1,1 +1,4 @@
-{ "latestVersion": "2.1.19" }
+{
+  "latestVersion": "2.1.23",
+  "latestIosVersion": "1.1"
+}
